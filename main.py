@@ -307,8 +307,10 @@ def game_start():
 
         screen.fill(GREEN)
         main.draw_elements()
+
         if not main.started:
             main.started = True
+
         pygame.display.flip()
         clock.tick(60)
 
