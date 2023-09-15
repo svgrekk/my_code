@@ -1,0 +1,50 @@
+
+ Column Description
+
+
+	1. CustomerId— contains random values representing the customer identity
+
+
+	2. CreditScore— real values representing the credit score of the customer
+
+
+	3. Location— the country where the customer is located
+
+
+	4. Gender— male or female
+
+
+	5. Age— interger values representing the age of the customer
+
+
+	6. Tenure— refers to the number of years that the customer has been a client of the bank
+
+
+	7. Balance— refers to the balance in the customer account 
+
+
+	8. NumOfProducts— refers to the number of products that a customer has purchased through the bank 
+
+
+	9. HasCrCard— denotes whether (1) or not  (0) a customer has a credit card 
+
+
+	10. IsActiveMember— denote whether a customer is active (1) or not (0)
+
+
+	11. EstimatedSalary— refers to the salary of the customer
+
+
+	12. Exited— whether (1) or not  (0) the customer left the bank
+
+
+	13. Complain— customer has complaint (1) or not (0)
+
+
+	14. Satisfaction Score— Score provided by the customer for their complaint resolution (1-not satisfied and 5-very satisfied)
+
+
+	15. Card Type— type of card hold by the customer
+
+
+	16. Points Earned— the points earned by the customer for using credit card
